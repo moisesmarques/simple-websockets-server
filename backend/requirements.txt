@@ -1,0 +1,11 @@
+redis
+shortuuid
+dnspython
+python-dotenv
+pyopenssl
+python-jose[cryptography]
+passlib[bcrypt]
+websockets
+supervisor
+asyncio
+aioredis
